@@ -5,6 +5,8 @@ def main():
     Main function to demonstrate the string operations.
     """
     test_string: str = "hello world"  # Chaîne d'exemple
+    print("Hi! PARIS")
+
 
     # Affiche la chaîne d'origine
     print(f"Original string: {test_string}")
